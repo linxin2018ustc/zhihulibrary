@@ -1,2 +1,3 @@
 # zhihulibrary
 我的知乎收藏的快照
+目前使用Edge浏览器的SingleFile插件快照
